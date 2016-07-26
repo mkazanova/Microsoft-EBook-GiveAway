@@ -9,7 +9,7 @@ FREE! That’s Right, I’m Giving Away MILLIONS of FREE Microsoft eBooks again!
 
 ## How to Download All EBooks
 
-1. Download the zip file and extract its content to a folde of your choice.
+1. Download the zip file and extract its content to a folder of your choice.
 2. Run the BookDownloader.exe program.
 3. It will download all the books and their related files to your computer's  c:\temp\books folder.
 4. Fetching all the files will take some time, so let it run until you see "All files downloaded" message in the console window.
